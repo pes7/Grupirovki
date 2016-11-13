@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<groups>
+  <group id="0">
+    <name>Сталкеры</name>
+    <id_mine_base>0</id_mine_base>
+    <national_attak_bonus>2</national_attak_bonus>
+    <national_defend_bonus>2</national_defend_bonus>
+    <national_solders_count>4</national_solders_count>
+  </group>
+  <group id="1">
+    <name>Бандиты</name>
+    <id_mine_base>3</id_mine_base>
+    <national_attak_bonus>2</national_attak_bonus>
+    <national_defend_bonus>1</national_defend_bonus>
+    <national_solders_count>4</national_solders_count>
+  </group>
+  <group id="2">
+    <name>Наёмники</name>
+    <id_mine_base>7</id_mine_base>
+    <national_attak_bonus>4</national_attak_bonus>
+    <national_defend_bonus>2</national_defend_bonus>
+    <national_solders_count>3</national_solders_count>
+  </group>
+</groups>

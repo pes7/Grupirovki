@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<map>
+  <point id="0">
+	<name>Фермы</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>3</add_exp>
+	<max_squads>2</max_squads>
+    <positions_x>31</positions_x>
+    <positions_y>197</positions_y>
+  </point>
+  <point id="1">
+	<name>Роща</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>4</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>312</positions_x>
+    <positions_y>214</positions_y>
+  </point>
+  <point id="2">
+	<name>Дачи</name>
+	<type>2</type>
+	<add_var>4</add_var>
+	<add_exp>1</add_exp>
+	<max_squads>2</max_squads>
+    <positions_x>624</positions_x>
+    <positions_y>263</positions_y>
+  </point>
+  <point id="3">
+	<name>Пригород</name>
+	<type>2</type>
+	<add_var>4</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>767</positions_x>
+    <positions_y>234</positions_y>
+  </point>
+  <point id="4">
+	<name>Село-2</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>3</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>902</positions_x>
+    <positions_y>235</positions_y>
+  </point>
+  <point id="5">
+	<name>Пром-зона</name>
+	<type>1</type>
+	<add_var>5</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>4</max_squads>
+    <positions_x>849</positions_x>
+    <positions_y>41</positions_y>
+  </point>
+  <point id="6">
+	<name>Охладители</name>
+	<type>1</type>
+	<add_var>4</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>1</max_squads>
+    <positions_x>1052</positions_x>
+    <positions_y>122</positions_y>
+  </point>
+  <point id="7">
+	<name>Село-3</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>4</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>1062</positions_x>
+    <positions_y>281</positions_y>
+  </point>
+  <point id="8">
+	<name>Розвилка</name>
+	<type>1</type>
+	<add_var>4</add_var>
+	<add_exp>3</add_exp>
+	<max_squads>2</max_squads>
+    <positions_x>1182</positions_x>
+    <positions_y>355</positions_y>
+  </point>
+  <point id="9">
+	<name>Река</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>5</add_exp>
+	<max_squads>1</max_squads>
+    <positions_x>1323</positions_x>
+    <positions_y>334</positions_y>
+  </point>
+  <point id="10">
+	<name>Село-1</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>3</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>1172</positions_x>
+    <positions_y>553</positions_y>
+  </point>
+  <point id="11">
+	<name>Клондайк</name>
+	<type>1</type>
+	<add_var>1</add_var>
+	<add_exp>4</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>1293</positions_x>
+    <positions_y>694</positions_y>
+  </point>
+  <point id="12">
+	<name>Высотка</name>
+	<type>1</type>
+	<add_var>3</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>961</positions_x>
+    <positions_y>672</positions_y>
+  </point>
+  <point id="13">
+	<name>Завод</name>
+	<type>1</type>
+	<add_var>3</add_var>
+	<add_exp>1</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>605</positions_x>
+    <positions_y>389</positions_y>
+  </point>
+  <point id="14">
+	<name>Поле</name>
+	<type>1</type>
+	<add_var>2</add_var>
+	<add_exp>3</add_exp>
+	<max_squads>2</max_squads>
+    <positions_x>540</positions_x>
+    <positions_y>623</positions_y>
+  </point>
+  <point id="15">
+	<name>Центер</name>
+	<type>1</type>
+	<add_var>3</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>916</positions_x>
+    <positions_y>443</positions_y>
+  </point>
+  <point id="16">
+	<name>Андрей</name>
+	<type>1</type>
+	<add_var>3</add_var>
+	<add_exp>2</add_exp>
+	<max_squads>3</max_squads>
+    <positions_x>200</positions_x>
+    <positions_y>200</positions_y>
+  </point>
+  </map>

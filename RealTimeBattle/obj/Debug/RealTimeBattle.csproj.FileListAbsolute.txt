@@ -1,0 +1,9 @@
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\bin\Debug\RealTimeBattle.exe.config
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\bin\Debug\RealTimeBattle.exe
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\bin\Debug\RealTimeBattle.pdb
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.Form1.resources
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.Properties.Resources.resources
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.csproj.GenerateResource.Cache
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.exe
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.pdb
+C:\Users\ukolo\OneDrive\Документы\Visual Studio 2015\Projects\Grupirovki\RealTimeBattle\obj\Debug\RealTimeBattle.csprojResolveAssemblyReference.cache
